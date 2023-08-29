@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+
+#demo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 7px;
+}
+h1{
+    text-align: center;
+    color: #17D4FE;
+    font-family: 'Orbitron', sans-serif;
+}
